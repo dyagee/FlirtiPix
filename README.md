@@ -41,15 +41,15 @@ samples, guidance on mobile development, and a full API reference.
 
 Google play Protect
 
-![App Safe](https://www.mediafire.com/view/genmt7oaallr5cc/screenshot2.png/file)
+![App Safe](https://github.com/dyagee/FlirtiPix/blob/main/lib/assets/screenshots/screenshot2.png)
 
 
-![Screenshot5](https://www.mediafire.com/view/ivoibexh15izbrx/screenshot5.png/file)
+![Screenshot5](https://github.com/dyagee/FlirtiPix/blob/main/lib/assets/screenshots/screenshot5.png)
 
-![Screenshot7](https://www.mediafire.com/view/lo1upxc2o5ljmgl/screenshot7.png/file)
+![Screenshot7](https://github.com/dyagee/FlirtiPix/blob/main/lib/assets/screenshots/screenshot7.png)
 
 
-![Screenshot8](https://www.mediafire.com/view/iyotmp4pbz763f9/screenshot8.png/file)
+![Screenshot8](https://github.com/dyagee/FlirtiPix/blob/main/lib/assets/screenshots/screenshot8.png)
 
 
 ## To Do
